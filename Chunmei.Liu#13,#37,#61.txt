@@ -12,7 +12,8 @@
 10.	CRT 	
 11.	DOS 	
 12.	IT	
-13.	MIS 	
+13.	MIS 	Management information system
+          information system for decision-making, coordination, control, analysis, and visualization of information.
 14.	GUI 	
 15.	BIT 	
 16.	AWS 	
@@ -36,7 +37,8 @@
 34.	TCP/IP  	
 35.	DIMM 	
 36.	O365 	
-37.	GHz 	
+37.	GHz      Giga Hertz	
+             unit of measurement for AC or EM, wave frequencies
 38.	WYSIWYG 
 39.	RAID	
 40.	SCSI 	
@@ -60,7 +62,8 @@
 58.	VM	
 59.	WAP	
 60.	DBMS	
-61.	W3C	
+61.	W3C	  World Wide Web Consortium
+          an international community where Member organizations to develop Web standards
 62.	XML	
 63.	VPN
 64.	RTF
